@@ -2,15 +2,15 @@
   "id": "acode.plugin",
   "name": "Plugin",
   "main": "dist/main.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
   "minVersionCode" : 290,
-  "price": 0,
+  "price": 0.99,
   "author": {
-    "name": "",
+    "name": "D3F0NC3UR",
     "email": "",
-    "github": ""
+    "github": "D3F0NC3UR"
   }
 }
